@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="585c4b771c9020c96a6750b413cb204eb484c51192bf5e06" />
+          <option name="urlString" value="http://localhost:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="585c4b771c9020c96a6750b413cb204eb484c51192bf5e06" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$PROJECT_DIR$/.idea/defi_trends_models_test.iml">
